@@ -40,7 +40,7 @@ MS Excel - This dashboard is based on Excel for data cleaning to creating visual
 
 ## Results
 
-The final dashboard we obtain after adding all the relevant KPIs, visuals and filters. 
+The final dashboard we obtain after adding all the relevant KPIs, visuals and filters.  
 
 ![image](https://github.com/harshvardhan0303/RoadAccidentAnalysisExcel/assets/91109131/f02017ae-240c-4898-8b1e-e98c2a0d5c9b)
 
