@@ -32,4 +32,11 @@ Ministry of Transport , Road Transport Department , Police Force , Emerging serv
 
 ## Tech Stack
 
-MS Excel - For creating this dashboard, 
+MS Excel - This dashboard is based on Excel for data cleaning to creating visuals and then transforming it into dashboard. We have used the pivot tables of excel to organise the data in tabular form and creating relevant KPIs according to the clients/stakeholders demand. 
+
+## Project Architecture
+
+![image](https://github.com/harshvardhan0303/RoadAccidentAnalysisExcel/assets/91109131/459859e3-22cb-45c1-9e89-546c72b2a505)
+
+
+
